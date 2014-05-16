@@ -1,0 +1,7 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+title: MD
+tagline: mateusz dziworski
+description: mateusz dziworski
+paginate: 50
